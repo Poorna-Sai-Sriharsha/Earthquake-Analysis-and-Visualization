@@ -4,7 +4,7 @@
 **Earthquake & Seismic Events Dashboard** is a beautiful, interactive web dashboard that visualizes and analyzes global earthquake and nuclear explosion data from **1965 to 2016**. Built with **Python (Flask)**, **Matplotlib**, **Seaborn**, and **Folium**, this project transforms raw seismic data into insightful, publication-quality visualizations — including frequency trends, energy release patterns, depth-magnitude relationships, aftershock sequences, and a global map of nuclear tests.
 Perfect for seismologists, researchers, students, or anyone curious about Earth's seismic history.
 
-## 📸 Screenshots
+## 📸 Screenshot
 ![Earthquake Dashboard Preview](Earthquake.png)
 
 ## ✨ Features
