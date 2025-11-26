@@ -5,7 +5,7 @@
 Perfect for seismologists, researchers, students, or anyone curious about Earth's seismic history.
 
 ## 📸 Screenshots
-![Earthquake Dashboard Preview](screenshot.png)
+![Earthquake Dashboard Preview](Earthquake.png)
 
 ## ✨ Features
   - ✅ Decadal Earthquake Frequency Trend – See how reported earthquakes increased over time
